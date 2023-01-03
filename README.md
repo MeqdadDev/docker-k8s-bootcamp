@@ -1,7 +1,7 @@
 # Docker and Kubernetes (K8s) Bootcamp
 
 <p align="center">
-<img src="assets/docker-k8s-img.jpg" width=40% height=17%>
+<img src="assets/docker-k8s.png" width=80% height=60%>
 </p>
 
 ## Topics:
